@@ -2,6 +2,8 @@
 
 Este proyecto se desarrolló en Google Colab y se dividió en dos etapas principales:
 
+### Integrantes: Pablo Rivera, Mauricio Silva
+
 ## Primera Parte
 
 En esta etapa se realizó una primera aproximación al problema de clasificación de sueño utilizando únicamente 7 features del primer canal EEG:
